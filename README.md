@@ -7,6 +7,10 @@ There is also a video that shows step by step how to host this React App or webs
 
 > I teach computers, coding and programming from very basics to advanced. Visit my YouTube Channel [Coding Aqyanoos](https://www.youtube.com/@CodingAqyanoos) and my website [https://aqyanoos.com/](https://aqyanoos.com/).
 
+
+> Check out the [Live Demo of this Repo](https://coding-aqyanoos.github.io/host-a-react-app-github/)
+
+
 ### In just 8 Steps Host your React App or Website on Github:
 
 1. Install __gh-pages__ library as Dev Dependency: `npm install -D gh-pages`.
